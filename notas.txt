@@ -2,8 +2,6 @@ Titulo
 
 Parrafo
 
-Parrafo 2
-
 Parrafo 3
 
 Parrafo 4
